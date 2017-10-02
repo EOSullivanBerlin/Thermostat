@@ -1,0 +1,5 @@
+# Thermostat
+Week 5 intro to Javascript and jasmine Thermostat two day challange.
+
+## About
+You'll build the business logic to model a simple thermostat, and learn to hook it up to a dynamic visual interface using jQuery - all within the browser. Finally, you'll use JavaScript to fetch data from external sources and display that on the page - again, all right from the page. Underpinning all this will be a new testing framework to help you test-drive your JavaScript code - Jasmine.
